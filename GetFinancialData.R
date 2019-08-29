@@ -1,3 +1,4 @@
+# Credit to: https://stackoverflow.com/questions/50355094/how-to-get-financial-information-of-stocks-in-r
 #Get Price Data
 library(quantmod)
 getSymbols("GOOG")
